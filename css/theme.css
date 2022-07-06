@@ -10684,7 +10684,10 @@ html {
     top: 0;
     height: 100%;
     width: 70px;
-    background-color: #293034;
+
+    /* background of top button   .gld */
+    background-color: #9fbbd9;   
+     
     border-radius: 0 0 4px;
   }
   .tm-totop-scroller:hover {

@@ -10643,9 +10643,14 @@ html {
 .tm-footer {
   position: relative;
   padding: 20px 30px;
-  background: #373e43;
+  background: #add8e6;
   text-align: center;
-  color: #676c70;
+  color: #007ba7;
+
+/* тут я заменил цвет на зеленый  */
+
+
+
 }
 .tm-footer a {
   color: #8e9091;
